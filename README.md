@@ -143,21 +143,5 @@ The application is configured for deployment on Replit with automatic scaling:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Authors
-
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
-
-## 🙏 Acknowledgments
-
-- Built with modern web technologies
-- UI components from shadcn/ui
-- Icons from Lucide React
-- Avatars from DiceBear API
-
----
-
-**ConnectPro** - Building bridges between experience and ambition 🌉
